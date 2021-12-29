@@ -1,5 +1,8 @@
 $(function(){
     
+    //socket iniciado
+    var socket = io();
+
     //Variables
     var message = $("#chat-message");
     var chat = $("chat");
