@@ -1,5 +1,18 @@
 {
   "dependencies": {
     "discord.js": "^13.5.0"
-  }
+  },
+  "name": "bot-de-discord",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
